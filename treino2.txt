@@ -2,3 +2,4 @@ Treino de pull
 Linha no main antes de aplicar stash
 Versão 0.1.0
 Versão 0.2.0
+Linha de demo para branching
