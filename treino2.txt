@@ -1,2 +1,3 @@
 Treino de pull 
 Linha no main antes de aplicar stash
+Versão 0.1.0
