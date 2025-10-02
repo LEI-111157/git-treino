@@ -1,1 +1,2 @@
 Treino de pull 
+Linha no main antes de aplicar stash
