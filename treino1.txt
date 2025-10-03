@@ -1,4 +1,8 @@
 Treino Git init, add, commit
 Linha da branch main
 Linha da branch feature-treino
+<<<<<<< HEAD
 Linha feita pelo aluno B
+=======
+Linha feita pelo aluno A
+>>>>>>> 6fc152ee11d7e89f1b89e7a1dcba870a4990cbbc
